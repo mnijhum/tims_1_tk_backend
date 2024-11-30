@@ -1,0 +1,7 @@
+Flask
+selenium
+webdriver-manager   # Stable version for managing drivers
+pytest
+pytest-flask
+gunicorn==20.1.0
+flask-cors
